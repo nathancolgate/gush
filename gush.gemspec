@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "graphviz", "~> 1.2"
   spec.add_dependency "terminal-table", "~> 1.4"
   spec.add_dependency "paint", "~> 2.2"
-  spec.add_dependency "thor", "~> 0.19"
+  spec.add_dependency "thor"
   spec.add_dependency "launchy", "~> 2.4"
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake", "~> 10.4"
